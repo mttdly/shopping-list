@@ -1,35 +1,30 @@
-#image {
+.image {
   border-radius: 10px;
   float: left;
-  height: 500px;
+  height: 400px;
   margin-bottom: 70px;
 }
 
+.col-sm-6 {
+  background: radial-gradient(circle at 10% 20%, rgb(218, 213, 151) 0%, rgb(37, 50, 55) 100.2%);
+}
+
 .row {
+  justify-content: center;
   padding-top: 60px;
-  padding-left: 40px;
+  padding-left: 80px;
   padding-right: 40px;
 }
 
 #table {
-
+  height: 400px;
+  width: 600px;
   float: left;
-  background-color: whitesmoke;
+  background-color: rgb(226, 218, 182);
   border-radius: 5px;
-  margin-bottom: 50px;
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-
-#td {
-
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-
-#data {
-  width: 100%;
-
+  margin-bottom: 150px;
+  border: 1px solid rgb(35, 32, 43);
+  box-shadow: 10px 10px;
 }
 
 #button {
@@ -41,10 +36,6 @@
   margin-top: 50px;
   margin-left: 50px;
   margin-right: 50px;
-}
-
-td tr {
-  border: 1px solid black;
 }
 
 html {
