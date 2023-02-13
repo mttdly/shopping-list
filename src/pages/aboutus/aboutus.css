@@ -1,0 +1,15 @@
+#image {
+    margin-top: 5px;
+    border-radius: 15px;
+}
+
+.row {
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+html {
+    background-color: rgb(24, 22, 22);
+}

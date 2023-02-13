@@ -1,0 +1,52 @@
+#image {
+  border-radius: 10px;
+  float: left;
+  height: 500px;
+  margin-bottom: 70px;
+}
+
+.row {
+  padding-top: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#table {
+
+  float: left;
+  background-color: whitesmoke;
+  border-radius: 5px;
+  margin-bottom: 50px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#td {
+
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#data {
+  width: 100%;
+
+}
+
+#button {
+  display: inline;
+  margin-bottom: 50px;
+}
+
+.addItem {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+td tr {
+  border: 1px solid black;
+}
+
+html {
+  background-color: rgb(24, 22, 22);
+}
